@@ -1,0 +1,102 @@
+body {
+  /* background: #28333d; */
+  /* background-color: red; */
+  background-image: linear-gradient(315deg, #2f4353 0%, #d2ccc4 90%);
+  background-repeat: no-repeat;
+  min-height: 800px;
+}
+
+.head-bar div {
+  display: inline-block;
+}
+
+.contact {
+  float: right;
+}
+
+.contact div {
+  /* margin-top: 30px;
+  margin-left: 20px; */
+  margin: 30px;
+  font-size: 1.5em;
+}
+.screen {
+  padding-left: 10px;
+}
+
+.head-bar {
+  color: black;
+  text-shadow: 2px 2px lightgrey;
+}
+
+a:visited, a:link {
+	text-decoration: none;
+	color: inherit;
+}
+
+.img{
+	width: 50%;
+	float: left;
+  height:40%
+}
+
+
+.personal-img {
+	width: 90%;
+	height: 90%;
+}
+
+.text-info {
+  color: black;
+  text-shadow: 2px 2px grey;
+  width: 50%;
+  float: right;
+  text-align: center;
+  vertical-align: middle;
+  padding: 40px 0;
+}
+
+.info {
+  margin-top: 10px;
+}
+
+.introduction {
+  color: black;
+  padding: 30px;
+  padding-top: 0px;
+  line-height: 2em;
+  text-align: justify;
+  font-size: 1.2em;
+  width: 90%;
+  height: 90%;
+}
+
+
+.contact-info {
+  color: black;
+  font-size: 1.5em;
+}
+
+.project{
+  text-align: center;
+	width: 50%;
+	float: left;
+  display: inline-block;
+}
+
+.title {
+  font-weight: bold;
+}
+.words {
+  text-align: justify;
+}
+
+.video {
+  width: 100%;
+  height: 300px;
+  text-align: justify;
+}
+
+.box {
+  width: 80%;
+}
